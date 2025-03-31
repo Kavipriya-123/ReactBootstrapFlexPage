@@ -1,0 +1,106 @@
+.home-bg{
+    background-color: rgb(39, 39, 135);
+    height: 100vh;
+    padding-left:20px;
+    padding-right:20px;
+    font-family:"Roboto";
+    color:white;
+}
+.nav-cont{
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+
+}
+.nav-ul-cont{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    list-style-type: none;
+    align-items: center;
+    font-size:20px;
+    width: 70%;
+}
+.nav-head{
+    font-size:30px;
+    letter-spacing: 5px;
+    display: inline;
+}
+.nav-btn{
+    width:120px;
+    height: 35px;
+    font-size:17px;
+    border-width: 0px;
+    border-radius: 13px;
+    text-align: center;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    font-family:"Roboto";
+}
+.dropdown-content{
+    display: none;
+}
+.dropdown-btn{
+    background-color: transparent;
+    font-size:20px;
+    border-width: 0px;
+    color: white;
+    font-family:"Roboto";
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.drop-sym{
+    font-size: 2rem !important;
+}
+.home-bottom-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80%;
+    gap:30px;
+}
+.image-style{
+    background-color: transparent;
+}
+.home-content{
+    width:40vw;
+}
+.home-main-head{
+    font-size:49px;
+}
+.home-para{
+    font-size:23px;
+}
+.play-btn{
+    margin-left:30px;
+    background-color: transparent;
+    border-width: 0px;
+    font-size:17px;
+    text-align: center;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    font-family: "Roboto";
+    height: 35px;
+    cursor: pointer;
+}
+.play-sym{
+    font-size: 28px !important;
+    margin-right: 5px;
+}
+.btn-cont{
+    display: flex;
+    align-items: center;
+    
+}
+.add-color{
+    color:violet;
+}
+li{
+    cursor: pointer;
+}
+.nav-get-start-btn{
+    background-color: violet;
+}
