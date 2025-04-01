@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/ReactBootstrapFlexPage/static/css/main.4fb7ecbe.css",
-    "main.js": "/ReactBootstrapFlexPage/static/js/main.8a505055.js",
-    "static/js/453.8ab44547.chunk.js": "/ReactBootstrapFlexPage/static/js/453.8ab44547.chunk.js",
+    "main.js": "/ReactBootstrapFlexPage/static/js/main.ff90be12.js",
     "index.html": "/ReactBootstrapFlexPage/index.html",
     "main.4fb7ecbe.css.map": "/ReactBootstrapFlexPage/static/css/main.4fb7ecbe.css.map",
-    "main.8a505055.js.map": "/ReactBootstrapFlexPage/static/js/main.8a505055.js.map",
-    "453.8ab44547.chunk.js.map": "/ReactBootstrapFlexPage/static/js/453.8ab44547.chunk.js.map"
+    "main.ff90be12.js.map": "/ReactBootstrapFlexPage/static/js/main.ff90be12.js.map"
   },
   "entrypoints": [
     "static/css/main.4fb7ecbe.css",
-    "static/js/main.8a505055.js"
+    "static/js/main.ff90be12.js"
   ]
 }
